@@ -17,10 +17,10 @@ def first():
 def myinfo():
     events.add('type : request','endpoint : /myinfo')
     return jsonify(
-        quote="The King Never Fails To Win His Destiny",
-        name="S M Y ALTAMSH",
+        quote="Containerization using docker",
+        name="Geetha",
         profession="DevOps Engineer",
-        github="https://github.com/smyaltamash/",
+        github="https://github.com/G33tha/",
         status="200"
     )
 
